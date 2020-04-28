@@ -1,1 +1,1 @@
-class artist 
+class Artist 
